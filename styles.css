@@ -1,0 +1,40 @@
+body{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+table,
+th,
+td {
+    background-color:#fff;
+    margin-right: 28%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+button{
+    padding:10px;
+}
+
+#linkedin{
+    background-color: aqua;
+}
+
+#link{
+    background-color: aqua;
+}
+
+#github{
+    background: black;
+}
